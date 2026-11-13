@@ -25,11 +25,6 @@ A retro-inspired interactive music experience that lets you discover songs, crea
 - Deezer API
 - Google Fonts
 
-## 📸 Preview
-
-<!-- Add your project screenshots here -->
-
-![Burn CD Preview](burn-cd-seven.vercel.app/)
 
 ## 🚀 Getting Started
 
