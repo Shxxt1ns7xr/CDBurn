@@ -29,7 +29,7 @@ A retro-inspired interactive music experience that lets you discover songs, crea
 
 <!-- Add your project screenshots here -->
 
-![Burn CD Preview](screenshots/preview.png)
+![Burn CD Preview](burn-cd-seven.vercel.app/)
 
 ## 🚀 Getting Started
 
